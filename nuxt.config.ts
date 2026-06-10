@@ -12,6 +12,11 @@ export default defineNuxtConfig({
       "@tailwindcss/postcss": {},
     },
   },
+  css: ["~/assets/css/main.css"],
+  runtimeConfig: {
+    // NUXT_GITHUB_TOKEN 환경변수로 주입되는 서버 전용 GitHub PAT
+    githubToken: "",
+  },
   devtools: { enabled: true },
   compatibilityDate: "2024-04-03",
 });
