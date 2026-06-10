@@ -1,3 +1,5 @@
-# About Content Version 3
+# About Kody
 
-[Back home](/)
+Kody는 학생들이 직접 프로젝트를 기획하고 개발하는 전공 동아리입니다.
+
+[홈으로 돌아가기](/)

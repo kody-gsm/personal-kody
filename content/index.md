@@ -1,24 +1,5 @@
-# Welcome to Nuxt Content Starter
+# Kody
 
-This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
+전공 동아리 Kody의 소개 페이지입니다. (이전 소개 페이지 ourhome을 계승한 프로젝트)
 
-Move to [about](/about) page.
-
-## Manage your Contents
-
-Create new pages or modify the existing ones in `content/` directory.
-
-## Query & Render Pages
-
-You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/nuxt/starter/blob/content/app/pages/%5B...slug%5D.vue)
-
-## Integrate Vue Component
-
-::alert{color="green"}
-The current [alert](https://github.com/nuxt/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/nuxt/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
-::
-
-::counter
-::
-
-Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
+랜딩 페이지는 [홈](/)에서 확인할 수 있습니다. 이 디렉터리(`content/`)는 추후 동아리 소개·블로그 등 멀티페이지 문서를 위해 유지됩니다.
