@@ -2,6 +2,9 @@ groups:
   - claude
   - codex
 
+base_branch: develop
+language: ko
+
 overrides:
   claude/skills/kotest-guide: false
   claude/skills/kotlin-spring-arch: false
